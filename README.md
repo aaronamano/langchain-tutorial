@@ -9,3 +9,5 @@ pip install langchain-openai python-dotenv
 python <filename>
 deactivate
 ```
+
+create a `.env` file in the root directory and in the file add `OPENAI_API_KEY=""`
