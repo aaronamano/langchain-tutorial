@@ -6,4 +6,6 @@
 conda create -n langchain-env python=3.11 -y
 conda activate langchain-env
 pip install langchain-openai python-dotenv
+python <filename>
+deactivate
 ```
